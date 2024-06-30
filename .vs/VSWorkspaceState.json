@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\TripBooking",
+    "\\TripBooking\\TripBookingAPI",
+    "\\TripBooking\\TripBookingAPI\\Controllers",
+    "\\TripBooking\\TripBookingAPI\\Data",
+    "\\TripBooking\\TripBookingAPI\\Interfaces",
+    "\\TripBooking\\TripBookingAPI\\Models",
+    "\\TripBooking\\TripBookingAPI\\Models\\Dtos",
+    "\\TripBooking\\TripBookingAPI\\Properties",
+    "\\TripBooking\\TripBookingAPI\\Services"
+  ],
+  "SelectedNode": "\\TripBooking",
+  "PreviewInSolutionExplorer": false
+}
